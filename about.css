@@ -1,0 +1,60 @@
+*{
+background-color: none;
+}
+nav{
+	background-color: green;
+	padding:0px;
+}
+.logo img{
+height:100px;
+width: 100px;
+}
+.p p{
+	font-family:Blackadder ITC ;
+	font-size:30px;
+	padding-left:300px;
+	padding-bottom:50px;
+}
+.facilities ul{
+	list-style: none;
+	float: left;
+	
+
+	
+}
+.facilities ul li{
+	font-size: 20px;
+	text-transform: uppercase;
+	position: relative;
+	display: inline-block;
+	line-height: 0px;
+	
+
+}
+.facilities ul li a{
+	text-decoration:none ;
+	color: black;
+	padding-left: 20px;
+
+}
+.facilities ul li a:hover{
+	background:skyblue ;
+	border-radius:100px ;
+}
+.intro p marquee{
+	background-color: green;
+	font-size:20px ;
+}
+
+h1{
+	color: skyblue;
+}
+h1 span{
+ 	color:red;
+}
+.box{
+	 background-color: orange;
+}
+.box p{
+	font-size:30px ;
+}

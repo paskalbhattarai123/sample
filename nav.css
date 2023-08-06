@@ -1,0 +1,42 @@
+*{
+background-color: none;
+}
+nav{
+	background-color: green;
+	padding:0px;
+}
+.logo img{
+height:100px;
+width: 100px;
+}
+.p p{
+	font-family:Blackadder ITC ;
+	font-size:30px;
+	padding-left:300px;
+	padding-bottom:50px;
+}
+.facilities ul{
+	background-color:black ;
+	list-style: none;
+	float: left;
+	
+
+	
+}
+.facilities ul li{
+	font-size: 20px;
+	text-transform: uppercase;
+	position: relative;
+	display: inline-block;
+	line-height: 0px;
+
+}
+.facilities ul li a{
+	text-decoration:none ;
+	color: whitesmoke;
+	padding-left: 20px;
+}
+.facilitiesul ul li a:hover{
+	background:skyblue ;
+	border-radius:100px ;
+}
